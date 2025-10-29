@@ -1,1 +1,4 @@
-# street-art-probe-for-vlm-bias
+- Continent → Prompts 1–4
+- Country L1 → Prompts 1–4
+- Country L2 → Prompts 1–4
+- Country L3 → Prompts 1–4
